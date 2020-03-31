@@ -1,5 +1,5 @@
-/dataset/img015.jpeg
-/dataset/img016.jpeg
-/dataset/img017.jpeg
-/sataset/img018.jpeg
-/dataset/img019.jpeg
+dataset/img015.jpeg
+dataset/img016.jpeg
+dataset/img017.jpeg
+dataset/img018.jpeg
+dataset/img019.jpeg
