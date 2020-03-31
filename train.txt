@@ -1,15 +1,15 @@
-/content/gdrive/My Drive/dark/img/img001.jpeg
-/content/gdrive/My Drive/dark/img/img002.jpeg
-/content/gdrive/My Drive/dark/img/img003.jpeg
-/content/gdrive/My Drive/dark/img/img004.jpeg
-/content/gdrive/My Drive/dark/img/img005.jpeg
-/content/gdrive/My Drive/dark/img/img006.jpeg
-/content/gdrive/My Drive/dark/img/img007.jpeg
-/content/gdrive/My Drive/dark/img/img008.jpeg
-/content/gdrive/My Drive/dark/img/img009.jpeg
-/content/gdrive/My Drive/dark/img/img010.jpeg
-/content/gdrive/My Drive/dark/img/img011.jpeg
-/content/gdrive/My Drive/dark/img/img012.jpeg
-/content/gdrive/My Drive/dark/img/img013.jpeg
-/content/gdrive/My Drive/dark/img/img014.jpeg
+/dataset/img001.jpeg
+/dataset/img002.jpeg
+/dataset/img003.jpeg
+/dataset/img004.jpeg
+/dataset/img005.jpeg
+/dataset/img006.jpeg
+/dataset/img007.jpeg
+/dataset/img008.jpeg
+/dataset/img009.jpeg
+/dataset/img010.jpeg
+/dataset/img011.jpeg
+/dataset/img012.jpeg
+/dataset/img013.jpeg
+/dataset/img014.jpeg
 
