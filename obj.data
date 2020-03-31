@@ -1,0 +1,5 @@
+classes=1
+train  = /mydrive/train.txt
+valid  = /mydrive/test.txt
+names = /mydrive/object.names
+backup = /mydrive/backup/
