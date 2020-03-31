@@ -1,5 +1,5 @@
-/content/gdrive/My Drive/dark/img/img015.jpeg
-/content/gdrive/My Drive/dark/img/img016.jpeg
-/content/gdrive/My Drive/dark/img/img017.jpeg
-/content/gdrive/My Drive/dark/img/img018.jpeg
-/content/gdrive/My Drive/dark/img/img019.jpeg
+/dataset/img015.jpeg
+/dataset/img016.jpeg
+/dataset/img017.jpeg
+/sataset/img018.jpeg
+/dataset/img019.jpeg
