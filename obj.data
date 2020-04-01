@@ -2,4 +2,4 @@ classes=1
 train  = train.txt
 valid  = test.txt
 names = object.names
-backup = backup
+backup = /content/gdrive/My Drive/dark/backup/
